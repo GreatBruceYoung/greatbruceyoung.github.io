@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "杨浩霄"
-description              : "遥感科学与技术"
+title                    : "Haoxiao Yang"
+description              : "Remote Sensing Science and Technology"
 repository               : "GreatBruceYoung/greatbruceyoung.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "杨浩霄"
+  name             : "Haoxiao Yang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "武汉大学/慕尼黑工业大学"
-  location         : "德国 巴伐利亚州 慕尼黑"
+  bio              : "Wuhan University & Technical University of Munich"
+  location         : "Munich, Bavaria, Germany"
   employer         : #"None"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bsoUm7sAAAAJ"
