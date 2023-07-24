@@ -43,7 +43,7 @@ My research interests include:
 - Yuanlin Zhao , `Haoxiao Yang`, Haitong Yan, et al. Benggang Extraction Based on Improved U-Net Model from Satellite Remote Sensing Images[C]//*2023 4th International Conference on Computer Vision, Image and Deep Learning (CVIDL)*. IEEE, 2023: 170-174.
 [[Link]](https://ieeexplore.ieee.org/abstract/document/10167177) 
 
-- `Yang Haoxiao`, Hongxian Wang, Jianzhong Lu, et al. Full lifecycle monitoring on drought-converted catastrophic flood using sentinel-1 sar: A case study of poyang lake region during summer 2020[J]. *Remote Sensing*, 2021, 13(17): 3485.  
+- `Haoxiao Yang`, Hongxian Wang, Jianzhong Lu, et al. Full lifecycle monitoring on drought-converted catastrophic flood using sentinel-1 sar: A case study of poyang lake region during summer 2020[J]. *Remote Sensing*, 2021, 13(17): 3485.  
 [[Link]](https://www.mdpi.com/2072-4292/13/17/3485)
 
 ### Patent
