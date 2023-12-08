@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haoxiao Yang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/photo.jpg"
   bio              : "Wuhan University & Technical University of Munich"
-  location         : "Munich, Bavaria, Germany"
+  location         : "Munich, Bayern, Germany"
   employer         : #"None"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bsoUm7sAAAAJ"

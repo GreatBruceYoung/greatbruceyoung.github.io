@@ -26,7 +26,7 @@ My research interests include:
 - Multi-source fusion positioning
 - Ubiquitous navigation
 - Remote sensing image interpretation
-- Web GIS development
+- Geographical information system
 
 <span class='anchor' id='-xl'></span>
 
