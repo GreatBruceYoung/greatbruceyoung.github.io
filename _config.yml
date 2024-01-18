@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoxiao Yang"
-description              : "Remote Sensing Science and Technology"
+description              : "Earth-oriented Space Science and Technology"
 repository               : "GreatBruceYoung/greatbruceyoung.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Haoxiao Yang"
   avatar           : "images/photo.jpg"
   bio              : "Wuhan University & Technical University of Munich"
-  location         : "Munich, Bayern, Germany"
+  location         : "Munich, Germany"
   employer         : #"None"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bsoUm7sAAAAJ"

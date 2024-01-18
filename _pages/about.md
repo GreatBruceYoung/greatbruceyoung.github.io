@@ -22,16 +22,16 @@ redirect_from:
 I am currently persuing my Master's degree with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, Wuhan, China, and the School of Design and Engineering, Technical University of Munich, Munich, Germany. My major is Earth-oriented Space Science and Technology. I received my Bachelor's degree in engineering with the School of Remote Sensing and Information, Wuhan University, Wuhan, China in 2022.
 
 My research interests include:
-- Indoor ositioning
 - Multi-source fusion positioning
 - Ubiquitous navigation
 - Remote sensing image interpretation
-- Geographical information system
+- Machine learning
+
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
-- *2023.10 - 2025.06*, <a href="https://www.tum.de/"><img class="svg" src="/images/Technical_University_of_Munich_Logo.png" width="20pt"></a> Technical University of Munich, School of Design and Engineering, Munich, Germany, Master candidate
+- *2023.10 - 2025.06*, <a href="https://www.tum.de/"><img class="svg" src="/images/Technical_University_of_Munich_Logo.png" width="20pt"></a> Technical University of Munich, Department of Aerospace and Geodesy, Munich, Germany, Master candidate
 - *2022.09 - 2025.06*, <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan, China, Master candidate
 - *2018.09 - 2022.06*, <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, School of Remote Sensing and Information Engineering, Wuhan, China, Bachelor
  
@@ -40,6 +40,8 @@ My research interests include:
 # 📝 Publication
 ### Paper
 ---
+- `Haoxiao Yang`, L. Chen, H. Liu and G. Zhu, "Dynamic Feature-fused Localization with Smartphones Exploiting 5G NR SSB and Wi-Fi for Indoor Environments," *IEEE Transactions on Instrumentation and Measurement*, 2024. doi: 10.1109/TIM.2024.3352695.
+
 - Yuanlin Zhao , `Haoxiao Yang`, Haitong Yan, et al. Benggang Extraction Based on Improved U-Net Model from Satellite Remote Sensing Images[C]//*2023 4th International Conference on Computer Vision, Image and Deep Learning (CVIDL)*. IEEE, 2023: 170-174.
 [[Link]](https://ieeexplore.ieee.org/abstract/document/10167177) 
 
@@ -77,6 +79,7 @@ My research interests include:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors and Awards
+- *2023.10*  `Second Scholarship` for Graduate, Wuhan University
 - *2023.05*  `Second Prize` in the Fifteenth "Self-improvement Cup" Extracurricular Academic and Technological Works Competition for Undergraduates, Wuhan University
 - *2022.06* `Outstanding Graduate` of Wuhan University 
 - *2021.09* `Third Scholarship` of Wuhan University
