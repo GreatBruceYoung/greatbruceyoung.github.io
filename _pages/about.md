@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💬 About me
-I received my Bachelor's degree in Remote Sensing Science and Technology with the School of Remote Sensing and Information, Wuhan University, Wuhan, China in 2022. I am currently persuing my Master's degree with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, Wuhan, China, and the Department of Aerospace and Geodesy, Technical University of Munich, Munich, Germany. My major is Earth-oriented Space Science and Technology. Now, I am focusing on navigation and positioning.
+I received my Bachelor's degree in Remote Sensing Science and Technology with the School of Remote Sensing and Information, Wuhan University, Wuhan, China in 2022. I am currently persuing my Master's degree with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, Wuhan, China, and the Department of Aerospace and Geodesy, Technical University of Munich, Munich, Germany. Now, my researches focus on navigation and positioning.
 
-E-mail: yanghaoxiao@whu.edu.cn & haoxiao.yang@tum.de
+E-mail: yanghaoxiao@whu.edu.cn && haoxiao.yang@tum.de
 
 My research interests include:
 - Multi-source fusion positioning
@@ -31,9 +31,9 @@ My research interests include:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
-- *2023.10 - 2025.09*, <a href="https://www.tum.de/"><img class="svg" src="/images/Technical_University_of_Munich_Logo.png" width="20pt"></a> Technical University of Munich, Department of Aerospace and Geodesy, Munich, Germany, Master
-- *2022.09 - 2025.06*, <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan, China, Master
-- *2018.09 - 2022.06*, <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, School of Remote Sensing and Information Engineering, Wuhan, China, Bachelor
+- *2023.10 - 2025.10*, `Master` <a href="https://www.tum.de/"><img class="svg" src="/images/Technical_University_of_Munich_Logo.png" width="20pt"></a> Technical University of Munich, Department of Aerospace and Geodesy, Munich, Germany
+- *2022.09 - 2025.06*, `Master` <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan, China 
+- *2018.09 - 2022.06*, `Bachelor` <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, School of Remote Sensing and Information Engineering, Wuhan, China
  
 <span class='anchor' id='-lwzl'></span>
 
