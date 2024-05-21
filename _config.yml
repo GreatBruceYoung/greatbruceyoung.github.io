@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haoxiao Yang"
-description              : "Navigation and Positioning"
+title                    : "Haoxiao (Henry) Yang"
+description              : "M.Sc Student"
 repository               : "GreatBruceYoung/greatbruceyoung.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haoxiao Yang"
+  name             : "Haoxiao (Henry) Yang"
   avatar           : "images/photo.jpg"
   bio              : "Wuhan University & Technical University of Munich"
   location         : "Munich, Germany"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/haoxiao-yang-646138273/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0003-1319-1953"
   pinterest        :

@@ -18,22 +18,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💬 About me
-I received my Bachelor's degree in Remote Sensing Science and Technology with the School of Remote Sensing and Information, Wuhan University, Wuhan, China in 2022. I am currently persuing my Master's degree with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, Wuhan, China, and the Department of Aerospace and Geodesy, Technical University of Munich, Munich, Germany. Now, my researches focus on navigation and positioning.
+I received my Bachelor's degree of Engineering with the School of Remote Sensing and Information, Wuhan University, Wuhan, China in 2022. I am currently persuing my Master's degree of Science with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, Wuhan, China, and the Department of Aerospace and Geodesy, Technical University of Munich, Munich, Germany. Now, my research interests focus on navigation and positioning, sensor fusion, location-based service and machine learning. 
 
 E-mail: yanghaoxiao@whu.edu.cn && haoxiao.yang@tum.de
 
 My research interests include:
-- Multi-source fusion positioning
-- Ubiquitous navigation
-- Remote sensing image interpretation
+- Sensor fusion
+- Indoor positioning
+- Location-based service
+- Simultaneous localization and mapping
 - Machine learning
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
-- *2023.10 - 2025.10*, `Master` <a href="https://www.tum.de/"><img class="svg" src="/images/Technical_University_of_Munich_Logo.png" width="20pt"></a> Technical University of Munich, Department of Aerospace and Geodesy, Munich, Germany
-- *2022.09 - 2025.06*, `Master` <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan, China 
-- *2018.09 - 2022.06*, `Bachelor` <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, School of Remote Sensing and Information Engineering, Wuhan, China
+- *2023.10 - 2025.10*, `Master of Science` <a href="https://www.tum.de/"><img class="svg" src="/images/Technical_University_of_Munich_Logo.png" width="20pt"></a> Technical University of Munich, Department of Aerospace and Geodesy, Munich, Germany
+- *2022.09 - 2025.06*, `Master of Engineering` <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan, China 
+- *2018.09 - 2022.06*, `Bachelor Engineering` <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, School of Remote Sensing and Information Engineering, Wuhan, China
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -46,7 +47,7 @@ My research interests include:
 - Yuanlin Zhao , `Haoxiao Yang`, Haitong Yan, et al. Benggang Extraction Based on Improved U-Net Model from Satellite Remote Sensing Images //*2023 4th International Conference on Computer Vision, Image and Deep Learning (CVIDL)*. IEEE, 2023: 170-174.
 [[Link]](https://ieeexplore.ieee.org/abstract/document/10167177) 
 
-- `Haoxiao Yang`, Hongxian Wang, Jianzhong Lu, et al. Full lifecycle monitoring on drought-converted catastrophic flood using sentinel-1 sar: A case study of poyang lake region during summer 2020[J]. *Remote Sensing*, 2021, 13(17): 3485.  
+- `Haoxiao Yang`, Hongxian Wang, Jianzhong Lu, et al. Full lifecycle monitoring on drought-converted catastrophic flood using sentinel-1 sar: A case study of poyang lake region during summer 2020. *Remote Sensing*, 2021, 13(17): 3485.  
 [[Link]](https://www.mdpi.com/2072-4292/13/17/3485)
 
 ### Patent
@@ -57,6 +58,7 @@ My research interests include:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internship & Work Experience
+- *2024.05 - now*, Reviewer, IEEE Sensors Letters, IEEE
 - *2021.09 - 2023.09*, Research Assistant. Ubiquitous Navigation Information Processing (UNIP) Laboratory, Wuhan University, Wuhan, China
 - *2022.02 - 2022.06*, Algorithm Engineer. Changjiang River Scientific Research Institute, Wuhan, China
 
@@ -71,6 +73,7 @@ My research interests include:
 
 ### Academic projects
 ---
+- *2023.04 - 2023.09*, LiDAR/GNSS/IMU fusion for trajectory estimation in dynamic environments
 - *2020.01 - 2021.10*, Ubiquitous Navigation Solutions and Applications using new "5G+"
 - *2020.01 - 2021.10*, Research on the service capacity of remote sensing for monitoring floods in the "Belt and Road" region based on Chinese satellites
 
