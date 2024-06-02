@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💬 About me
-I received my Bachelor's degree of Engineering with the School of Remote Sensing and Information, Wuhan University, Wuhan, China in 2022. I am currently persuing my Master's degree of Science with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, Wuhan, China, and the Department of Aerospace and Geodesy, Technical University of Munich, Munich, Germany. Now, my research interests include navigation and positioning, sensor fusion, location-based service and machine learning. 
+I received my Bachelor's degree of Engineering with the School of Remote Sensing and Information, Wuhan University, Wuhan, China in 2022. In my Bachelor's degree, I worked in remote sensing, image processing, computer vision, and geographical information system. I am currently persuing my Master's degree of Science with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, Wuhan, China, and the Department of Aerospace and Geodesy, Technical University of Munich, Munich, Germany. Currenty, my research interests include navigation and positioning, sensor fusion, location-based service and machine learning. 
 
 E-mail: yanghaoxiao@whu.edu.cn && haoxiao.yang@tum.de
 
@@ -28,6 +28,12 @@ My research interests include:
 - Simultaneous localization and mapping
 - Autonomous driving
 - Machine learning
+
+<span class='anchor' id='-xw'></span>
+
+# 🔥 News
+- 2024.05: Invited to be a reviewer for IEEE Sensors Letters
+- 2023.12: 🎉 One paper are accepted by IEEE Transactions on Instrumentation and Measurement
 
 <span class='anchor' id='-xl'></span>
 
