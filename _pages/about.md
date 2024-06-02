@@ -33,7 +33,7 @@ My research interests include:
 
 # 🔥 News
 - 2024.05: Invited to be a reviewer for IEEE Sensors Letters
-- 2023.12: 🎉 One paper are accepted by IEEE Transactions on Instrumentation and Measurement
+- 2023.12: 🎉 One paper is accepted by IEEE Transactions on Instrumentation and Measurement
 
 <span class='anchor' id='-xl'></span>
 
