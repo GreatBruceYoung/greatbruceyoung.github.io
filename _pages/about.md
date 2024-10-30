@@ -18,35 +18,37 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💬 About me
-I received my Bachelor's degree of Engineering with the School of Remote Sensing and Information, Wuhan University, Wuhan, China in 2022. In my Bachelor's degree, I worked in remote sensing, image processing, computer vision, and geographical information system. I am currently persuing my Master's degree of Science with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, Wuhan, China, and the Department of Aerospace and Geodesy, Technical University of Munich, Munich, Germany. Currenty, my research interests include navigation and positioning, sensor fusion, location-based service and machine learning. 
+I received my Bachelor's degree of Engineering with the School of Remote Sensing and Information, Wuhan University, Wuhan, China in 2022. In my Bachelor's degree, I worked in remote sensing, image processing, computer vision, and geographical information system. I am currently persuing my dual Master's degrees of Science in ESPACE (sepcialized in Navigation) with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, Wuhan, China, and the Department of Aerospace and Geodesy, Technical University of Munich, Munich, Germany. Currenty, my research interests include navigation and positioning, sensor fusion, SLAM and machine learning. 
 
 E-mail: yanghaoxiao@whu.edu.cn && haoxiao.yang@tum.de
 
 My research interests include:
-- Sensor fusion
-- Indoor positioning
+- Sensor fusion (LiDAR, GNSS, IMU, Camera, 5G, Wi-Fi...)
+- Navigation and positioning
 - Simultaneous localization and mapping
-- Autonomous driving
+- Autonomous Vehicle
 - Machine learning
 
 <span class='anchor' id='-xw'></span>
 
 # 🔥 News
-- 2024.05: Invited to be a reviewer for IEEE Sensors Letters
-- 2023.12: 🎉 One paper is accepted by IEEE Transactions on Instrumentation and Measurement
+- 2024.10: 🎉 One paper is accepted by IEEE Sensors Journal
+- 2024.10: Invited to be a reviewer for IEEE Transactions on Vehicular Technology
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
 - *2023.10 - 2025.10*, `Master of Science` <a href="https://www.tum.de/"><img class="svg" src="/images/Technical_University_of_Munich_Logo.png" width="20pt"></a> Technical University of Munich, Department of Aerospace and Geodesy, Munich, Germany
 - *2022.09 - 2025.06*, `Master of Engineering` <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan, China 
-- *2018.09 - 2022.06*, `Bachelor Engineering` <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, School of Remote Sensing and Information Engineering, Wuhan, China
+- *2018.09 - 2022.06*, `Bachelor Engineering` <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, School of Remote Sensing and Information Engineering, Wuhan, China (GPA: 3.72/4.0, Overall Rank: 7/88)
  
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Publication
 ### Paper
 ---
+- `Haoxiao Yang`, and L. Chen, "Improving Indoor Localization through Data Augmentation of Visualized Multidimensional Fingerprints via Enhanced Generative Networks," *IEEE Sensors Journal*.
+
 - `Haoxiao Yang`, L. Chen, H. Liu and G. Zhu, "Dynamic Feature-fused Localization with Smartphones Exploiting 5G NR SSB and Wi-Fi for Indoor Environments," *IEEE Transactions on Instrumentation and Measurement*, vol. 73, pp. 1-14, 2024, Art no. 8501114, doi: 10.1109/TIM.2024.3352695.
 [[Link]](https://ieeexplore.ieee.org/document/10403817) 
 
@@ -64,7 +66,8 @@ My research interests include:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internship & Work Experience
-- *2024.05 - now*, Reviewer, IEEE Sensors Letters, IEEE
+- *2024.11 - now*, Research Assistant & Master Thesis Student, TUM Institute of Flight System Dynamics, Garching, Germany
+- *2024.05 - now*, Reviewer, IEEE Sensors Letters, IEEE Transactions on Vehicular Technology
 - *2021.09 - 2023.09*, Research Assistant. Ubiquitous Navigation Information Processing (UNIP) Laboratory, Wuhan University, Wuhan, China
 - *2022.02 - 2022.06*, Algorithm Engineer. Changjiang River Scientific Research Institute, Wuhan, China
 
@@ -93,6 +96,7 @@ My research interests include:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors and Awards
+- *2024.10* `Second Scholarship` for postgraduate student, Wuhan University
 - *2023.11* `Outstanding Postgraduate Student` for postgraduate student, Wuhan University
 - *2023.10* `Second Scholarship` for postgraduate student, Wuhan University
 - *2023.05* `Second Prize` in the 15th "Self-improvement Cup" Extracurricular Academic and Technological Works Competition for Undergraduates, Wuhan University
