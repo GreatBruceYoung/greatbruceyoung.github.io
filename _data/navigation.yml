@@ -9,11 +9,11 @@ main:
   - title: "Education"
     url: "/#-xl"
 
+  - title: "Experience"
+    url: "/#-gzsx"
+
   - title: "Publication"
     url: "/#-lwzl"
-
-  - title: "Internship & Work Experience"
-    url: "/#-gzsx"
 
   - title: "Projects"
     url: "/#-xmjl"

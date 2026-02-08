@@ -18,16 +18,21 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💬 About me
-I received my Bachelor's degree of Engineering with the School of Remote Sensing and Information, Wuhan University, Wuhan, China in 2022. In my Bachelor's degree, I worked in remote sensing, image processing, computer vision, and geographical information system. I am currently persuing my dual Master's degrees of Science in ESPACE (sepcializing in Navigation) with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, Wuhan, China, and the Department of Aerospace and Geodesy, Technical University of Munich, Munich, Germany. Currenty, my research interests include navigation and positioning, sensor fusion, SLAM, autonomous systems and machine learning. 
+I am a Computer Vision and SLAM researcher transitioning into the industry as an Algorithm Engineer in Perception at Jingwei Hirain Technologies Co., Inc. (Tier 1 autonomous vehicles company in China).
 
-E-mail: yanghaoxiao@whu.edu.cn && haoxiao.yang@tum.de
+I recently graduated with dual Master’s degrees from Wuhan University and Technical University of Munich, where my research centered on navigation, localiztion, sensor fusion, aerial robotics and perception. My background stems from a Bachelor's degree in Remote Sensing, giving me a unique perspective on spatial information processing.
+
+Currently, my professional focus lies in developing robust perception systems for autonomous vehicles, leveraging techniques in artifical intelligence and sensor fusion.
+
+[![Google Scholar](https://img.shields.io/endpoint?logo=google-scholar&url=https%3A%2F%2Fgoogle-scholar-stats.vercel.app%2Fapi%3Fuser%3DbsoUm7sAAAAJ&logoColor=white&label=Google%20Scholar)](https://scholar.google.com/citations?user=bsoUm7sAAAAJ)
+
+E-mail: yanghaoxiao@whu.edu.cn && haoxiao.yang@foxmail.com
 
 My research interests include:
+- Robotic navigation and perception
 - Sensor fusion (LiDAR, GNSS, IMU, Camera, 5G, Wi-Fi...)
-- Navigation and positioning
 - Simultaneous localization and mapping
 - Autonomous systems
-- Machine learning
 
 <span class='anchor' id='-xw'></span>
 
@@ -38,11 +43,34 @@ My research interests include:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
-- *2023.10 - 2025.10*, `Master of Science` <a href="https://www.tum.de/"><img class="svg" src="/images/Technical_University_of_Munich_Logo.png" width="20pt"></a> Technical University of Munich, Department of Aerospace and Geodesy, Munich, Germany
-- *2022.09 - 2025.10*, `Master of Engineering` <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan, China (GPA: 3.67/4.0)
+- *2023.10 - 2025.12*, `Master of Science` <a href="https://www.tum.de/"><img class="svg" src="/images/Technical_University_of_Munich_Logo.png" width="20pt"></a> Technical University of Munich, Department of Aerospace and Geodesy, Munich, Germany (Graduation with Merit)
+  - **Supervisor:** [Prof. Dr.-Ing. Florian Holzapfel](https://www.professoren.tum.de/en/holzapfel-florian)
+- *2022.09 - 2025.12*, `Master of Engineering` <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan, China (Grade: 91.29/100)
+  - **Supervisors:** [Prof. Liang Chen](https://liesmars.whu.edu.cn/info/1169/5953.htm), [Prof. Xinlian Liang](https://jszy.whu.edu.cn/liangxinlian/en/index.htm)
 - *2018.09 - 2022.06*, `Bachelor Engineering` <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/Wuhan_University_Logo.png" width="20pt"></a> Wuhan University, School of Remote Sensing and Information Engineering, Wuhan, China (GPA: 3.72/4.0, Overall Rank: 7/88)
  
 <span class='anchor' id='-lwzl'></span>
+
+# 💻 Experience
+
+### Employment
+---
+- *2026.03 - present*, `Algorithm Engineer` in **perception**. Jingwei Hirain Technologies, Beijing, China
+
+### Internship 
+---
+- *2022.02 - 2022.06*, `Algorithm Engineer` in **deep learning** and **computer vision**. Changjiang River Scientific Research Institute, Wuhan, China
+
+### Research
+---
+- *2025.05 - 2025.12*, `Research Assistant` & `Master Thesis Student` in **aerial robotics** and **sensor fusion-based mapping**. TUM Institute of Flight System Dynamics, Garching, Germany
+- *2021.09 - 2024.09*, `Research Assistant` in **positioning** and **navigation**. Ubiquitous Navigation Information Processing (UNIP) Laboratory, Wuhan University, Wuhan, China
+
+### Service
+---
+- *2024.05 - now*, Reviewer, IEEE Sensors Letters, IEEE Transactions on Vehicular Technology (IEEE TVT), IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
+
+<span class='anchor' id='-xmjl'></span>
 
 # 📝 Publication
 ### Paper
@@ -59,27 +87,17 @@ My research interests include:
 - `Haoxiao Yang`, Hongxian Wang, Jianzhong Lu, et al. Full lifecycle monitoring on drought-converted catastrophic flood using sentinel-1 sar: A case study of poyang lake region during summer 2020. *Remote Sensing*, 2021, 13(17): 3485. 
 [[Link]](https://www.mdpi.com/2072-4292/13/17/3485)
 
+### Thesis
+---
+- Master Thesis: 	Real-Time and Multi-Modal Mapping for Aerial Platforms in Large-Scale Scenarios. 
+[[Link]](https://drive.google.com/file/d/1FlZvdLwgS5BUQTzoP7RFFrdPVQiZlQxF/view?usp=drive_link)
+
 ### Patent
 ---
 - Yuanlin Zhao，`Haoxiao Yang` et al. A Method and System for Benggang Extraction Based on Improved U-net Model. (CN202210591275.1)
 [[Link]](https://www.drugfuture.com/cnpat/cn_patent.asp)
 
 <span class='anchor' id='-gzsx'></span>
-
-# 💻 Experience
-
-### Internship & Working 
----
-- *2025.03 - now*, Research Internship, Hybrid Dynamic Robotics Lab, University of Michigan, Ann Arbor, MI, U.S.
-- *2024.11 - now*, Research Assistant & Master Thesis Student, TUM Institute of Flight System Dynamics, Garching, Germany
-- *2021.09 - 2023.09*, Research Assistant. Ubiquitous Navigation Information Processing (UNIP) Laboratory, Wuhan University, Wuhan, China
-- *2022.02 - 2022.06*, Algorithm Engineer. Changjiang River Scientific Research Institute, Wuhan, China
-
-### Service
----
-- *2024.05 - now*, Reviewer, IEEE Sensors Letters, IEEE Transactions on Vehicular Technology (IEEE TVT)
-
-<span class='anchor' id='-xmjl'></span>
 
 # 📚 Projects
 
@@ -90,12 +108,12 @@ My research interests include:
 
 ### Academic projects
 ---
+- *2025.05 - 2025.12*, Real-time and multi-modal LiDAR/Camera-fused mapping system for aircraft in large-scale scenarios
+[[Link]](https://github.com/GreatBruceYoung/Aerial-Semantic-OctoMap) 
 - *2023.04 - 2023.09*, LiDAR/GNSS/IMU fusion for trajectory estimation in dynamic environments 
 [[Link]](https://github.com/GreatBruceYoung/ES-EKF-based-LiDAR-GNSS-IMU-fusion) 
-
 - *2021.11 - 2021.12*, Indoor positioning based on wireless signals
 [[Link]](https://github.com/GreatBruceYoung/Indoor-positioning) 
-
 - *2020.01 - 2021.10*, Ubiquitous Navigation Solutions and Applications using new "5G+"
 - *2020.01 - 2021.10*, Research on the service capacity of remote sensing for monitoring floods in the "Belt and Road" region based on Chinese satellites
 
@@ -107,6 +125,7 @@ My research interests include:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors and Awards
+- *2025.06* `Graduate with Distinction` for postgraduate student, Wuhan University
 - *2024.10* `Second Scholarship` for postgraduate student, Wuhan University
 - *2023.11* `Outstanding Postgraduate Student` for postgraduate student, Wuhan University
 - *2023.10* `Second Scholarship` for postgraduate student, Wuhan University
