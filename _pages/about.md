@@ -24,7 +24,7 @@ I recently graduated with dual Master’s degrees from Wuhan University and Tech
 
 Currently, my professional focus lies in developing robust perception systems for autonomous vehicles, leveraging techniques in artifical intelligence and sensor fusion.
 
-[![Google Scholar](https://img.shields.io/endpoint?logo=google-scholar&url=https%3A%2F%2Fgoogle-scholar-stats.vercel.app%2Fapi%3Fuser%3DbsoUm7sAAAAJ&logoColor=white&label=Google%20Scholar)](https://scholar.google.com/citations?user=bsoUm7sAAAAJ)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGreatBruceYoung%2Fgreatbruceyoung.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=google-scholar&label=Citations&logoColor=white)](https://scholar.google.com/citations?user=bsoUm7sAAAAJ)
 
 E-mail: yanghaoxiao@whu.edu.cn && haoxiao.yang@foxmail.com
 
