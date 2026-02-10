@@ -2,11 +2,11 @@ name: Get Citation Data
 
 on: 
   schedule:
-    - cron: '0 8 * * *'  # 每天UTC时间8点运行
-  workflow_dispatch:      # 允许手动点击按钮运行
+    - cron: '0 8 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write         # 必须加这行，否则无法push结果
+  contents: write
 
 jobs:
   build:
@@ -21,29 +21,28 @@ jobs:
 
     - name: Install Dependencies
       run: |
-        pip install scholarly jsonpickle
+        # 修正路径：指向文件夹里的 requirements.txt
+        pip install -r google_scholar_crawler/requirements.txt
 
     - name: Run Crawler
       env: 
-        GOOGLE_SCHOLAR_ID: bsoUm7sAAAAJ  # 直接填入你的ID，无需设置Secrets
+        GOOGLE_SCHOLAR_ID: bsoUm7sAAAAJ
       run: |
-        # 假设你的Python脚本叫 main.py 且在根目录下
-        python3 main.py
+        # 修正路径：运行文件夹里的 main.py
+        python3 google_scholar_crawler/main.py
 
     - name: Push to Branch
       run: |
-        # 进入 python 脚本生成的 results 文件夹
-        cd ./results
+        # 因为 main.py 是在根目录被调用的，所以生成的 results 文件夹会在根目录
+        # 直接进入 results 文件夹
+        cd results
         
-        # 初始化 git 并提交
         git init
         git config --local user.name "GitHub Action"
         git config --local user.email "action@github.com"
         
-        # 这一步很关键：强制推送到 google-scholar-stats 分支
-        # 这样你的主分支(main)很干净，只有数据在这个特殊分支里
         git add *.json
         git commit -m "Updated Citation Data"
         
-        # 使用 GITHUB_TOKEN 推送
+        # 强制推送到 google-scholar-stats 分支
         git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:google-scholar-stats --force
